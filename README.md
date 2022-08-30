@@ -1,16 +1,19 @@
 # Heart Disease Classification Using Machine Learning Models
 
-This tries to use various machine learning and data science libraries to build a machine learning model capable of predicting whether someone has a heart disease or not based on their medical attributes.Our goal is to predict whether or not people have heart disease using clinical parameters.
+This tries to use various machine learning and data science libraries to build a machine learning model capable of predicting whether someone has a heart disease or not based on their medical attributes.
 
-**Thing we are going to cover:**
+   **Thing we are going to cover:**
 
-  *  Problem Definition
-  *  Data
-  *  Model
-  *  Evaluation
-  *  Fine tuning
-  
-  
+         *  Problem Definition
+         *  Data
+         *  Model
+         *  Evaluation
+         *  Fine tuning
+
+
+**Our goal is to predict whether or not people have heart disease using clinical parameters.**
+
+
 **We are going to use 3 different machine learning models:**
 
   *  Logistic Regression
@@ -27,7 +30,7 @@ You can fine tune your model by,
   *  RandomizedSearchCV
   *  GridSearchCV
 
-And we will try to use this methods to fine tune our models..
+And we will try to use this methods to fine tune our models.
 
 
 
