@@ -1,1 +1,1 @@
-# heart_disease-ML_project
+# Heart Disease-ML Project
