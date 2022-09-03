@@ -16,13 +16,15 @@
 * Data Exploration (EDA)
 * Crosstab and Correlation Matrix
 * Modelling
-      **We are going to use 3 different machine learning models:**
+
+      We are going to use 3 different machine learning models:
           *  Logistic Regression
           *  K-Nearest Neighbors Classifier
           *  Random Forest Classifier
 
 * Model Comparison
 * Hyperparameter Tuning
+
       You can fine tune your model by,
         *  hand
         *  RandomizedSearchCV
