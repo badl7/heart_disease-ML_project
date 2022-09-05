@@ -30,6 +30,15 @@
         *  RandomizedSearchCV
         *  GridSearchCV
 
+*Evaluating the Models
+
+        *  Confusion Matrix
+        *  Classification Report
+        *  Precision
+        *  Recall
+        *  F1-score
+        *  The ROC Curve
+
 And we will try to use this methods to fine tune our models.
 
 
