@@ -30,7 +30,7 @@
         *  RandomizedSearchCV
         *  GridSearchCV
 
-*Evaluating the Models
+* Evaluating the Models
 
         *  Confusion Matrix
         *  Classification Report
