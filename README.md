@@ -43,7 +43,7 @@ And we will try to use this methods to fine tune our models.
 
 #Reference
 * e-book - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-* 'Introduction to machine Learning' course by Global AI Hub, Trainer - Ekrem Serdar Ozturk
+* 'Introduction to Machine Learning' course by Global AI Hub, Trainer - Ekrem Serdar Ozturk
 
 
 
