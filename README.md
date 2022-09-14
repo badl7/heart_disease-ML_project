@@ -41,8 +41,8 @@
 
 And we will try to use this methods to fine tune our models.
 
-#Reference
-* e-book - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+# Reference
+* [🦎 e-book - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 * 'Introduction to Machine Learning' course by Global AI Hub, Trainer - Ekrem Serdar Ozturk
 
 
